@@ -28,8 +28,8 @@
   "devDependencies": {
     "@iconify/react": "^4.1.1",
     "autoprefixer": "^10.2.6",
-    "eslint": "8.1.0",
-    "eslint-config-next": "12.0.2",
+    "eslint": "7.*",
+    "eslint-config-next": "*",
     "install": "^0.13.0",
     "npm": "^9.8.0",
     "postcss": "^8.3.5",
